@@ -1,0 +1,10 @@
+dash==2.9.1
+dash-bootstrap-components==1.4.1
+dash-bootstrap-templates==1.0.8
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+gunicorn==20.1.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
+pandas @ file:///C:/ci/pandas_1650373458095/work
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
